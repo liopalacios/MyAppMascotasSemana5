@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MyAppMascotas</string>
+    <string name="app_nombre">Nombre</string>
+    <string name="app_comentario">Comentario :</string>
+    <string name="app_titulo_contacto">Contactenos :</string>
+    <string name="app_email">Correo Electronico</string>
+    <string name="app_contacto">Contacto</string>
+    <string name="app_acercade">Acerca de</string>
+    <string name="app_logout">Logout</string>
+    <string name="app_acerca">
+    Mi nombre es Leyter Palacios, vivo en la ciudad de Lima, Peru.
+    La informática es mi hobby, mi profesión y mi pasión. Soy un afortunado usuario y desarrollador de software libre.
+        Disfruto de esta libertad desde hace ya más de 5 años, y gracias a Android me propuesto nuevas metas.
+    </string>
+    <string name="app_btnContacto">Enviar comentario</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
